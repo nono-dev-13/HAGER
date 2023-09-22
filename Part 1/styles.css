@@ -1,0 +1,26 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f5f5;
+    color: #2c2929;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.button {
+    display: inline-block;
+    background-color: indianred;
+    color: #FFFFFF;
+    border: 0;
+    padding: 3px 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.quote {
+    padding: 10px;
+    background-color: ghostwhite;
+    box-shadow: 3px 5px #CCC;
+    line-height: 1.2;
+}
